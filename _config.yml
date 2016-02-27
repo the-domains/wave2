@@ -1,0 +1,28 @@
+name: Wave2
+favicon: null
+layout_spectrum: 0.7347630171570927
+typography_spectrum: 0.28143717418424785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8320148852653801
+  lightness: 0.22785438667051494
+  saturation: 0.6297461641952395
+  rhythmicContrast: 0.40275283716619015
+purpose: []
