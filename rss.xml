@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wave2]]></title>
         <description><![CDATA[Wave2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wave2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 17:25:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 17:57:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://soundcloud.com/wave2/electrosub</p>]]></description>
+            <link>https://thegrid.ai/wave2/96426bfc-14c7-4e29-9dfb-e1770652b54b/index.html</link>
+            <guid isPermaLink="false">96426bfc-14c7-4e29-9dfb-e1770652b54b</guid>
+            <pubDate>Sat, 27 Feb 2016 17:56:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Greener</p>]]></description>
-            <link>undefined02ef83fa-62c4-4957-ae3b-cf558aa690d6/index.html</link>
+            <link>https://thegrid.ai/wave2/02ef83fa-62c4-4957-ae3b-cf558aa690d6/index.html</link>
             <guid isPermaLink="false">02ef83fa-62c4-4957-ae3b-cf558aa690d6</guid>
             <pubDate>Sat, 27 Feb 2016 17:24:20 GMT</pubDate>
         </item>
