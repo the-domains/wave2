@@ -4,8 +4,15 @@
         <description><![CDATA[Wave2]]></description>
         <link>https://thegrid.ai/wave2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 17:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 08:47:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About</p>]]></description>
+            <link>https://thegrid.ai/wave2/935cb854-f242-4bd8-a038-574ff2fb3243/index.html</link>
+            <guid isPermaLink="false">935cb854-f242-4bd8-a038-574ff2fb3243</guid>
+            <pubDate>Sun, 28 Feb 2016 08:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Greener</p>]]></description>
