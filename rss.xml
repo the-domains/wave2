@@ -4,15 +4,8 @@
         <description><![CDATA[Wave2]]></description>
         <link>https://thegrid.ai/wave2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:15:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Pucked by Wave2]]></title>
-            <description><![CDATA[<article><h1>Pucked by Wave2</h1><p>This track was Pucked from the beginning....still it works in parts....kinda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72b55af2d393e0147a43eadbafc65c96c7fb4632.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/pucked</link>
-            <guid isPermaLink="false">c4834fd1-0884-4017-90f3-883e2b975df8</guid>
-            <pubDate>Sat, 05 Mar 2016 19:15:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Flawed Heart by Wave2]]></title>
             <description><![CDATA[<article><h1>Flawed Heart by Wave2</h1><p>A flawed bpm can easily be overlooked when other elements are introduced to mask it. Could do with mastering properly as the bass kills my laptop. Of course it could just be my laptop....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c767360580215d60277bbfa9f1ca7cfaf6c3a7c.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://soundcloud.com/wave2/cylon</link>
             <guid isPermaLink="false">a7d7b53d-286e-4c71-8e62-7b31ff122259</guid>
             <pubDate>Sat, 05 Mar 2016 19:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Menace by Wave2]]></title>
+            <description><![CDATA[<article><h1>Menace by Wave2</h1><p>The name says it all! Listen at your own peril....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e3422726d972d5c2ce7353fab3b0cc4567c8ed2.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/menace</link>
+            <guid isPermaLink="false">8914273b-047c-4289-8ba0-4cb24a304725</guid>
+            <pubDate>Sat, 05 Mar 2016 19:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
