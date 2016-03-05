@@ -4,8 +4,15 @@
         <description><![CDATA[Wave2]]></description>
         <link>https://thegrid.ai/wave2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:11:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menace by Wave2]]></title>
+            <description><![CDATA[<article><h1>Menace by Wave2</h1><p>The name says it all! Listen at your own peril....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e3422726d972d5c2ce7353fab3b0cc4567c8ed2.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/menace</link>
+            <guid isPermaLink="false">8914273b-047c-4289-8ba0-4cb24a304725</guid>
+            <pubDate>Sat, 05 Mar 2016 19:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Edge of Ambience by Wave2]]></title>
             <description><![CDATA[<article><h1>The Edge of Ambience by Wave2</h1><p>A track walking a fine line along the Edge of Ambience</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f5947f87d4c8f4cf3633cd2b35703db145c3ae1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wave2/935cb854-f242-4bd8-a038-574ff2fb3243/index.html</link>
             <guid isPermaLink="false">935cb854-f242-4bd8-a038-574ff2fb3243</guid>
             <pubDate>Sun, 28 Feb 2016 08:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Greener</p>]]></description>
-            <link>https://thegrid.ai/wave2/02ef83fa-62c4-4957-ae3b-cf558aa690d6/index.html</link>
-            <guid isPermaLink="false">02ef83fa-62c4-4957-ae3b-cf558aa690d6</guid>
-            <pubDate>Sat, 27 Feb 2016 17:24:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
