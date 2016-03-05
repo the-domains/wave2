@@ -4,15 +4,8 @@
         <description><![CDATA[Wave2]]></description>
         <link>https://thegrid.ai/wave2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:14:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Robotic Age by Wave2]]></title>
-            <description><![CDATA[<article><h1>The Robotic Age by Wave2</h1><p>A very robotic rhythm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afeb2ff74ea81664f5111d434a4991e9b23ecf8.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/the-robotic-age</link>
-            <guid isPermaLink="false">a9430448-27c6-4eee-b313-2483131cb9d2</guid>
-            <pubDate>Sat, 05 Mar 2016 19:14:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Easter Galactic by Wave2]]></title>
             <description><![CDATA[<article><h1>Easter Galactic by Wave2</h1><p>Have a Galactic Easter! Enjoy the ride...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e2d23525ea8eac30e2410fdc936bd6b3d308d60.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://soundcloud.com/wave2/the-edge-of-ambience</link>
             <guid isPermaLink="false">cfb8dfca-4f59-4d69-821b-4540a56d52d0</guid>
             <pubDate>Sat, 05 Mar 2016 19:11:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EventHorizon by Wave2]]></title>
+            <description><![CDATA[<article><h1>EventHorizon by Wave2</h1><p>Not quite finished but as far as I want to go before getting sucked into the Event Horizon...who know's where it may end up...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e861e6c61d50da4ef4fd6a9d6f3b34f659caf3a.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/eventhorizon</link>
+            <guid isPermaLink="false">78067fb1-274e-41d4-8c8a-6620649d721a</guid>
+            <pubDate>Sat, 05 Mar 2016 19:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
