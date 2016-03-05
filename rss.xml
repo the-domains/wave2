@@ -4,8 +4,29 @@
         <description><![CDATA[Wave2]]></description>
         <link>https://thegrid.ai/wave2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:16:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Derailed by Wave2]]></title>
+            <description><![CDATA[<article><h1>Derailed by Wave2</h1><p>It's alive!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e6fdadc5160ac5d101b5e461d8707ba20403c01.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/derailed</link>
+            <guid isPermaLink="false">ef263c4c-276d-4372-bf24-aba30a400fda</guid>
+            <pubDate>Sat, 05 Mar 2016 19:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vermona by Wave2]]></title>
+            <description><![CDATA[<article><h1>Vermona by Wave2</h1><p>Pure analog bliss like something out of Blade Runner - great interlude</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c92650cee9efc4bbc3c712644400f37339f3fe1.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/vermona</link>
+            <guid isPermaLink="false">807f5dd2-d407-42af-b1be-a6086053969a</guid>
+            <pubDate>Sat, 05 Mar 2016 19:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pucked by Wave2]]></title>
+            <description><![CDATA[<article><h1>Pucked by Wave2</h1><p>This track was Pucked from the beginning....still it works in parts....kinda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72b55af2d393e0147a43eadbafc65c96c7fb4632.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/pucked</link>
+            <guid isPermaLink="false">c4834fd1-0884-4017-90f3-883e2b975df8</guid>
+            <pubDate>Sat, 05 Mar 2016 19:15:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flawed Heart by Wave2]]></title>
             <description><![CDATA[<article><h1>Flawed Heart by Wave2</h1><p>A flawed bpm can easily be overlooked when other elements are introduced to mask it. Could do with mastering properly as the bass kills my laptop. Of course it could just be my laptop....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c767360580215d60277bbfa9f1ca7cfaf6c3a7c.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://soundcloud.com/wave2/anamnesis</link>
             <guid isPermaLink="false">6498a879-00b2-4fa4-bbe2-0d8da87fe2d8</guid>
             <pubDate>Sat, 05 Mar 2016 19:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zomanche by Wave2]]></title>
-            <description><![CDATA[<article><h1>Zomanche by Wave2</h1><p>Comanche meets Bazille</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea39efbe99e30acbf7cc8961bc47b97af09834ce.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/zomanche</link>
-            <guid isPermaLink="false">985a555e-b5e2-4cb1-b114-3d70d4c0a206</guid>
-            <pubDate>Sat, 05 Mar 2016 19:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cylon by Wave2]]></title>
-            <description><![CDATA[<article><h1>Cylon by Wave2</h1><p>Revenge of the dirty synths</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/005038978b5b32c9298ea6e579c52591d5cc75d8.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/cylon</link>
-            <guid isPermaLink="false">a7d7b53d-286e-4c71-8e62-7b31ff122259</guid>
-            <pubDate>Sat, 05 Mar 2016 19:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menace by Wave2]]></title>
-            <description><![CDATA[<article><h1>Menace by Wave2</h1><p>The name says it all! Listen at your own peril....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e3422726d972d5c2ce7353fab3b0cc4567c8ed2.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/menace</link>
-            <guid isPermaLink="false">8914273b-047c-4289-8ba0-4cb24a304725</guid>
-            <pubDate>Sat, 05 Mar 2016 19:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
