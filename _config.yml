@@ -1,20 +1,4 @@
-name: Wave2
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.49918
-title: Wave2
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-26752917-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#C8C8C8'
@@ -26,4 +10,23 @@ color:
   lightness: 0.3125
   saturation: 0.372159
   rhythmicContrast: 0.526278
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-26752917-1
+  facebook: null
+  twitter: null
+author:
+  name: Alan Snelson
+  email: Alan@Wave2.org
+name: Wave2
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Wave2
 purpose: []
