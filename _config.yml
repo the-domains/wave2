@@ -27,7 +27,11 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - id: 75116da0-653b-4c57-a13b-2f465b36ffe8
+    url: 2016-07-23-about.html
+    name: About
+    type: content
 favicon: null
 title: Wave2
 purpose: []
