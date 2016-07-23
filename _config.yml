@@ -27,6 +27,11 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: 935cb854-f242-4bd8-a038-574ff2fb3243
+    url: 2016-02-28-935cb854-f242-4bd8-a038-574ff2fb3243.html
+    name: About
+    type: content
 favicon: null
 title: Wave2
 purpose: []
