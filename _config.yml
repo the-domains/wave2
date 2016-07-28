@@ -31,9 +31,10 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 75116da0-653b-4c57-a13b-2f465b36ffe8
-    name: About
+  - name: About
+    id: 75116da0-653b-4c57-a13b-2f465b36ffe8
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcd8ed94-ae91-4ee2-b9c2-41447f510c1b.ico
 title: Wave2
 purpose: []
