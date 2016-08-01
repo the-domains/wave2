@@ -2,10 +2,31 @@
     <channel>
         <title><![CDATA[Wave2]]></title>
         <description><![CDATA[Wave2]]></description>
-        <link>https://thegrid.ai/wave2/</link>
+        <link>http://wave2.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:16:15 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/wave2/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Aug 2016 12:41:25 GMT</lastBuildDate>
+        <atom:link href="http://wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Toy]]></title>
+            <description><![CDATA[<article><h1>New Toy</h1><p>My PM3 finally gave up the ghost the other day so I decided to take the plunge and shell out for a PM5. The Bluetooth link allows me to use the ErgData app to upload instantly to the logbook - plus I found a use for the old Nexus 4!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a651b49-156a-4bc8-adb5-886030d582eb.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a651b49-156a-4bc8-adb5-886030d582eb.png</link>
+            <guid isPermaLink="false">a864fce6-06a6-487e-a0ff-ae7bf7521957</guid>
+            <pubDate>Mon, 01 Aug 2016 12:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ElectroSub by Wave2]]></title>
+            <description><![CDATA[<article><h1>ElectroSub by Wave2</h1><p>Out of the rain it appeared, and just as quickly it vanished...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bbc26da9181fec6cfcb9ac0594f74eb3fddd8f9.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/electrosub</link>
+            <guid isPermaLink="false">d5b149e8-3623-4c1c-9816-af718105e9ab</guid>
+            <pubDate>Sat, 05 Mar 2016 19:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derailed by Wave2]]></title>
+            <description><![CDATA[<article><h1>Derailed by Wave2</h1><p>It's alive!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e6fdadc5160ac5d101b5e461d8707ba20403c01.jpg"></article>]]></description>
+            <link>https://soundcloud.com/wave2/derailed</link>
+            <guid isPermaLink="false">ef263c4c-276d-4372-bf24-aba30a400fda</guid>
+            <pubDate>Sat, 05 Mar 2016 19:16:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vermona by Wave2]]></title>
             <description><![CDATA[<article><h1>Vermona by Wave2</h1><p>Pure analog bliss like something out of Blade Runner - great interlude</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c92650cee9efc4bbc3c712644400f37339f3fe1.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://soundcloud.com/wave2/lurker</link>
             <guid isPermaLink="false">9e923591-0573-47b3-adb0-e9e4db917e88</guid>
             <pubDate>Sat, 05 Mar 2016 19:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crepuscular by Wave2]]></title>
-            <description><![CDATA[<article><h1>Crepuscular by Wave2</h1><p>Sunset is only the beginning, look up and watch the sky give birth to the stars....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b149b977013967b9603ab37193bc08e294405e84.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/crepuscular</link>
-            <guid isPermaLink="false">6b6f7b9e-1cd9-45d0-b224-481dfd85b0d0</guid>
-            <pubDate>Sat, 05 Mar 2016 19:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anamnesis by Wave2]]></title>
-            <description><![CDATA[<article><h1>Anamnesis by Wave2</h1><p>I remember.....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77b638d4640269feb050a14483947264a5c8a98a.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/anamnesis</link>
-            <guid isPermaLink="false">6498a879-00b2-4fa4-bbe2-0d8da87fe2d8</guid>
-            <pubDate>Sat, 05 Mar 2016 19:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zomanche by Wave2]]></title>
-            <description><![CDATA[<article><h1>Zomanche by Wave2</h1><p>Comanche meets Bazille</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea39efbe99e30acbf7cc8961bc47b97af09834ce.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/zomanche</link>
-            <guid isPermaLink="false">985a555e-b5e2-4cb1-b114-3d70d4c0a206</guid>
-            <pubDate>Sat, 05 Mar 2016 19:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
