@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-21T13:39:43.589Z'
+datePublished: '2016-08-21T13:44:56.935Z'
+sourcePath: _posts/2016-08-21-arrived-just-in-time-for-the-weekend.md
 author: []
 via: {}
-dateModified: '2016-08-21T13:37:02.886Z'
+dateModified: '2016-08-21T13:44:56.398Z'
 title: ''
-publisher: {}
+publisher:
+  name: American Short Fiction
+  url: 'http://americanshortfiction.org'
 description: Arrived just in time for the weekend!
 starred: false
-sourcePath: _posts/2016-08-21-arrived-just-in-time-for-the-weekend.md
 inFeed: true
 hasPage: true
 inNav: false
