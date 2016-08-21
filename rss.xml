@@ -4,8 +4,15 @@
         <description><![CDATA[Wave2]]></description>
         <link>http://wave2.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 12:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 13:45:00 GMT</lastBuildDate>
         <atom:link href="http://wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c728cfeb-aa5c-4ad4-81b3-092ee94770f8.png">]]></description>
+            <link>http://wave2.org/arrived-just-in-time-for-the-weekend/index.html</link>
+            <guid isPermaLink="false">6ffa5ede-1c40-4089-99a8-1203ddbe7600</guid>
+            <pubDate>Sun, 21 Aug 2016 13:44:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Toy]]></title>
             <description><![CDATA[<article><h1>New Toy</h1><p>My PM3 finally gave up the ghost the other day so I decided to take the plunge and shell out for a PM5. The Bluetooth link allows me to use the ErgData app to upload instantly to the logbook - plus I found a use for the old Nexus 4!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a651b49-156a-4bc8-adb5-886030d582eb.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/wave2/stargazer</link>
             <guid isPermaLink="false">15cbc561-71d7-4a09-b870-224832d3e3bb</guid>
             <pubDate>Sat, 05 Mar 2016 19:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lurker by Wave2]]></title>
-            <description><![CDATA[<article><h1>Lurker by Wave2</h1><p>I originally planned to call this Growler due to the heavy bassline but chose Lurker as it's a pretty sneaky track....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f7a2bd30b8e071f5ea28fe83dcd064be7254e88.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/lurker</link>
-            <guid isPermaLink="false">9e923591-0573-47b3-adb0-e9e4db917e88</guid>
-            <pubDate>Sat, 05 Mar 2016 19:13:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
