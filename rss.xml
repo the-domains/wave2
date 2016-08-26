@@ -4,8 +4,15 @@
         <description><![CDATA[Wave2]]></description>
         <link>http://wave2.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 19:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 12:00:51 GMT</lastBuildDate>
         <atom:link href="http://wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c434b27-a128-4371-8275-46cff52f0844.png">]]></description>
+            <link>http://wave2.org/picked-this-up-on-the-way-to-completing-the-dog-days-of-summ/index.html</link>
+            <guid isPermaLink="false">406f3346-7482-43a8-a784-209b5b1b0585</guid>
+            <pubDate>Fri, 26 Aug 2016 12:00:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[American Short Fiction Issue 62]]></title>
             <description><![CDATA[<article><h1>American Short Fiction Issue 62</h1><p>Arrived just in time for the weekend!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c728cfeb-aa5c-4ad4-81b3-092ee94770f8.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/wave2/easter-galactic</link>
             <guid isPermaLink="false">b75fd76e-79d6-4a88-b4d2-e4da13e9aa6f</guid>
             <pubDate>Sat, 05 Mar 2016 19:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stargazer by Wave2]]></title>
-            <description><![CDATA[<article><h1>Stargazer by Wave2</h1><p>Space is incomprehensibly vast.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9ec59e7e96cd6c8f4acbe5d81b88116a6c3c8de.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/stargazer</link>
-            <guid isPermaLink="false">15cbc561-71d7-4a09-b870-224832d3e3bb</guid>
-            <pubDate>Sat, 05 Mar 2016 19:13:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
