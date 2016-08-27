@@ -4,7 +4,7 @@
         <description><![CDATA[Wave2]]></description>
         <link>http://wave2.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 12:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 19:54:08 GMT</lastBuildDate>
         <atom:link href="http://wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +68,6 @@
             <link>https://soundcloud.com/wave2/the-robotic-age</link>
             <guid isPermaLink="false">a9430448-27c6-4eee-b313-2483131cb9d2</guid>
             <pubDate>Sat, 05 Mar 2016 19:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Easter Galactic by Wave2]]></title>
-            <description><![CDATA[<article><h1>Easter Galactic by Wave2</h1><p>Have a Galactic Easter! Enjoy the ride...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e2d23525ea8eac30e2410fdc936bd6b3d308d60.jpg"></article>]]></description>
-            <link>https://soundcloud.com/wave2/easter-galactic</link>
-            <guid isPermaLink="false">b75fd76e-79d6-4a88-b4d2-e4da13e9aa6f</guid>
-            <pubDate>Sat, 05 Mar 2016 19:14:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
