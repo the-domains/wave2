@@ -2,18 +2,16 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-05T12:11:46.859Z'
-publisher:
-  name: The-grid-user-content
-  domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-  url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+dateModified: '2017-01-19T20:58:40.108Z'
+publisher: {}
 author: []
 inFeed: true
 description: Lunch by the river
 via: {}
-datePublished: '2016-08-05T12:11:52.719Z'
-starred: false
+datePublished: '2017-01-19T20:58:42.600Z'
 sourcePath: _posts/2016-08-05-lunch-by-the-river.md
+starred: false
+datePublishedOriginal: '2016-08-05T12:11:52.719Z'
 _type: Blurb
 
 ---
