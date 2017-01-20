@@ -41,8 +41,7 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/wave2'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/904dbce6-bfb3-44b6-b192-27218c595fbd.ico
+favicon: null
 title: Wave2
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -62,7 +61,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -72,3 +70,4 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Unraveling the now, while working on the next...'
 purpose: []
+url: 'http://thegrid.ai/wave2/'
