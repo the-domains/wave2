@@ -1,5 +1,12 @@
+name: Wave2
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4112bc1-7bcc-4dd8-aef1-fa60ed323bd9.png
 layout_spectrum: 0.13473811300379215
 typography_spectrum: 0.2288550368402301
+cta: {}
+analytics:
+  google: UA-26752917-1
+opengraph: {}
 color:
   brandColors:
     - '#1A1F2B'
@@ -11,26 +18,13 @@ color:
   lightness: 0.5265859738820334
   saturation: 0.2795024169676264
   rhythmicContrast: 0.0289051709510386
-github: true
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: UA-26752917-1
-  facebook: null
-  twitter: null
+purpose: []
+title: Wave2
+description: 'Unraveling the now, while working on the next...'
 author:
   name: Alan Snelson
-  email: Alan@Wave2.org
   url: 'http://www.Wave2.org'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4112bc1-7bcc-4dd8-aef1-fa60ed323bd9.png
-name: Wave2
-cta:
-  domain: null
-  bucket: null
-  version: null
+  email: Alan@Wave2.org
 navigation:
   - name: About
     id: 75116da0-653b-4c57-a13b-2f465b36ffe8
@@ -41,8 +35,6 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/wave2'
     type: external
-favicon: null
-title: Wave2
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -52,22 +44,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/14552c8e-c23c-4d39-a437-68e7c7249ef8.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Unraveling the now, while working on the next...'
-purpose: []
-url: 'http://thegrid.wave2.org'
+github: true
