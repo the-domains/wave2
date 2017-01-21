@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Here are a few things I just had to get off my chest.
-dateModified: '2017-01-21T21:17:02.187Z'
-datePublished: '2017-01-21T21:17:02.736Z'
+dateModified: '2017-01-21T21:22:30.779Z'
+datePublished: '2017-01-21T21:22:31.630Z'
 title: What's wrong with thegrid.io and this AI generated site?
 author: []
 publisher: {}
