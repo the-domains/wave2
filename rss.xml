@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Wave2]]></title>
         <description><![CDATA[Wave2]]></description>
-        <link>http://wave2.org/</link>
+        <link>http://thegrid.wave2.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Jan 2017 20:58:55 GMT</lastBuildDate>
-        <atom:link href="http://wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jan 2017 20:58:51 GMT</pubDate>
+        <lastBuildDate>Sat, 21 Jan 2017 21:24:03 GMT</lastBuildDate>
+        <atom:link href="http://thegrid.wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 21 Jan 2017 21:22:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[What's wrong with thegrid.io and this AI generated site?]]></title>
+            <description><![CDATA[<h1>What's wrong with thegrid.io and this AI generated site?</h1>,<p>Here are a few things I just had to get off my chest.</p>,<p>Before I start, just let me say that I really want the grid to succeed.  The concept is still solid, and with a few more knobs and a little more polish I won’t even consider reverting back to a static site on S3… </p>,<h2>The markup generated does not pass The W3C Markup Validation Service!</h2>,<p>There were over 46 issues on this page alone last time I looked - <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fwave2.org%2F" title="https://validator.w3.org">https://validator.w3.org</a></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ec83a2-8e8e-4c44-b28b-535688ba8830.png">,<h2>Assets are hosted outside of with the site</h2>,<p>The assets are scattered over at least 5 locations, meaning the site suffers from increased latency and can’t benefit from recent enhancements like http2.</p>,<ul><li>https://ajax.googleapis.com</li><li>https://cdnjs.cloudflare.com</li><li>https://cdn.thegrid.io</li><li>https://the-grid-user-content.s3-us-west-2.amazonaws.com</li><li>https://imgflo.herokuapp.com</li></ul>,<p>To add to the latency, many of the assets are not minified / compressed, and make up around 20% of the requests.</p>,<h2>This site has minimal content and yet the page source alone is 595KB!</h2>,<p>If you add all the assets on the page, you end up with a total size of 63.3MB. Try rendering that on a mobile with 3 bars of connection.</p>,<h2>There is no way to add a cookie banner to comply with EU cookie law</h2>,<p>Region specific but still something you need to consider.</p>,<h2>It's just too slow</h2>,<p>Like 10 seconds page load slow. Of course if the above items are fixed, things would be much improved.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f63ff9d-3c0f-4ffe-959d-582142d42125.png">,<p>Kudos to the mobile friendliness score tho!</p>,<h2>Support took over 24Hrs to respond</h2>,<p>If you have an issue with your site, you don’t want to wait 24Hrs+ before you get a response (weekends included, the web never sleeps).</p>,<p>I raised an issue with thegrid.io support yesterday about the performance of this site and was told</p>,<blockquote>A kind human will get back to you in less than 24 hours.</blockquote>,<p>Well it’s now 24Hrs and I have yet to get a response.</p>,<h2>The image processing is flawed</h2>,<p>Take a look at the logo at the top of the page. You can’t see the text right? That’s because the colors chosen by the AI didn’t take into account the images on the page.</p>,<p>In fact, some text on the page is hard to read, due to the lack of contrast against the background.</p>]]></description>
+            <link>http://thegrid.wave2.org/whats-wrong-with-thegridio-and-this-ai-generated-site/index.html</link>
+            <guid isPermaLink="false">249ab290-4810-4863-b03b-6c6f104c48f9</guid>
+            <pubDate>Sat, 21 Jan 2017 21:17:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>High Tech meets Low Tech at the 2017 London AWSome Day</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be87c946-2e8d-45ee-9096-9794aa93949a.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc84edeb-3800-4e98-b173-3eb2a3393460.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/710524f1-bd9b-414c-a1a2-ffab04da49c4.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/633fc91e-8197-4b0e-ba3e-30518c331da5.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9829d1f-aaac-4ad3-a101-f337ba77e7f7.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08dcd581-a0da-4c56-b0df-2bdb3b7d8563.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00deafb0-b449-4b01-82a5-c6c527c68382.jpg">]]></description>
-            <link>http://wave2.org/6318b0a7-b408-4105-8e4c-ebca0a154783/index.html</link>
+            <link>http://thegrid.wave2.org/6318b0a7-b408-4105-8e4c-ebca0a154783/index.html</link>
             <guid isPermaLink="false">6318b0a7-b408-4105-8e4c-ebca0a154783</guid>
             <pubDate>Thu, 19 Jan 2017 20:46:21 GMT</pubDate>
         </item>
@@ -27,6 +34,13 @@
             <link>http://americanshortfiction.org/</link>
             <guid isPermaLink="false">6ffa5ede-1c40-4089-99a8-1203ddbe7600</guid>
             <pubDate>Mon, 22 Aug 2016 19:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<h1>About</h1>,<ul><li><strong>Age: </strong>40</li><li><strong>Callsign: </strong><a href="http://qrz.com/db/M0WAV">M0WAV</a></li><li><strong>Interests: </strong>Amateur Radio, <a href="http://log.concept2.com/profile/851592" title="Concept2 Profile">Indoor Rowing</a>, <a href="https://soundcloud.com/wave2" title="Wave2 Music">Music Production</a>, <a href="https://github.com/wave2" title="Wave2 GitHub">Open Source Software and Development</a></li><li><strong>Goodreads</strong>: <a href="https://goodreads.com/wave2" title="Wave2 Reading">Wave2</a></li><li><strong>Fave Editor: </strong>Vi</li><li><strong>Fave IDE: </strong><a href="http://www.jetbrains.com/idea/">IntelliJ</a></li><li><strong>Fave Lang(s): </strong>JavaScript<strong>, </strong><a href="http://www.ruby-lang.org/">Ruby</a>, Java</li><li><strong>Fave OS: </strong><a href="http://www.freebsd.org/">FreeBSD - Duh!</a></li></ul>]]></description>
+            <link>http://thegrid.wave2.org/about/index.html</link>
+            <guid isPermaLink="false">75116da0-653b-4c57-a13b-2f465b36ffe8</guid>
+            <pubDate>Sat, 30 Jul 2016 10:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Withdrawal by Wave2]]></title>
@@ -62,13 +76,6 @@
             <link>https://soundcloud.com/wave2/pucked</link>
             <guid isPermaLink="false">c4834fd1-0884-4017-90f3-883e2b975df8</guid>
             <pubDate>Sat, 05 Mar 2016 19:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flawed Heart by Wave2]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F213225126%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fwave2%2Fflawed-heart&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122209110-95babq-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
-            <link>https://soundcloud.com/wave2/flawed-heart</link>
-            <guid isPermaLink="false">f199745a-4147-41f6-94ac-2be4a8884440</guid>
-            <pubDate>Sat, 05 Mar 2016 19:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
