@@ -1,16 +1,16 @@
 ---
-datePublished: '2017-01-19T20:58:42.434Z'
+datePublished: '2017-01-21T21:22:32.041Z'
 sourcePath: >-
   _posts/2016-08-26-picked-this-up-on-the-way-to-completing-the-dog-days-of-summ.md
 author: []
 via: {}
-dateModified: '2017-01-19T20:58:40.108Z'
+dateModified: '2017-01-21T21:22:30.779Z'
 title: ''
 publisher: {}
 description: Picked this up on the way to completing the Dog Days Of Summer Challenge
+inFeed: true
 starred: false
 datePublishedOriginal: '2016-08-26T12:00:48.554Z'
-inFeed: true
 _context: 'http://schema.org'
 _type: Article
 
