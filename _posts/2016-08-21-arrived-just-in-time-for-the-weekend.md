@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-21T21:22:31.695Z'
+datePublished: '2017-01-29T16:38:47.367Z'
 sourcePath: _posts/2016-08-21-arrived-just-in-time-for-the-weekend.md
 isBasedOnUrl: 'http://americanshortfiction.org/'
 author: []
 via: {}
-dateModified: '2017-01-21T21:22:30.779Z'
+dateModified: '2017-01-29T16:38:45.425Z'
 title: American Short Fiction Issue 62
 publisher: {}
 description: Arrived just in time for the weekend!
