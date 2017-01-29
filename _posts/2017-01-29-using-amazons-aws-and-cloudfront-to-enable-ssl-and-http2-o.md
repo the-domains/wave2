@@ -4,17 +4,17 @@ description: >-
   As the undisputed leader in cloud computing (constantly expanding), there are
   more than a handful of reasons to use AWS to distribute your grid site to the
   world.
-dateModified: '2017-01-29T16:37:20.232Z'
-datePublished: '2017-01-29T16:37:37.902Z'
+dateModified: '2017-01-29T16:38:45.425Z'
+datePublished: '2017-01-29T16:38:46.777Z'
 title: Using Amazon's AWS and CloudFront to enable SSL and HTTP/2 on your Grid site
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-01-29T16:37:37.902Z'
 sourcePath: >-
   _posts/2017-01-29-using-amazons-aws-and-cloudfront-to-enable-ssl-and-http2-o.md
+starred: false
+datePublishedOriginal: '2017-01-29T16:37:37.902Z'
 url: using-amazons-aws-and-cloudfront-to-enable-ssl-and-http2-o/index.html
 _type: Article
 
