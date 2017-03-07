@@ -17,14 +17,16 @@ keywords:
   - characters
   - amazon
   - novels
-description: Just finished reading The Name of the Wind - fantastic book!
+description: >-
+  Just finished reading The Name of the Wind - fantastic book. A must read if
+  ever there was one!
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
   https://www.amazon.co.uk/gp/product/0575081406/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0575081406&linkCode=as2&tag=wave2
 title: 'The Name of the Wind (The Kingkiller Chronicle): 1'
-datePublished: '2017-03-07T21:02:41.599Z'
-dateModified: '2017-03-07T21:02:40.987Z'
+datePublished: '2017-03-07T21:07:00.100Z'
+dateModified: '2017-03-07T21:06:59.590Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-07-the-name-of-the-wind-the-kingkiller-chronicle-1.md
@@ -34,6 +36,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Just finished reading The Name of the Wind - fantastic book!
+Just finished reading The Name of the Wind - fantastic book. A must read if ever there was one!
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/46708b9ad733d24ed9a87173468621d8/noop.jpg?input=https%3A%2F%2Fimages-eu.ssl-images-amazon.com%2Fimages%2FI%2F51das2SKQyL.jpg" /><h1>The Name of the Wind (The Kingkiller Chronicle): 1</h1><p>Buy The Name of the Wind (The Kingkiller Chronicle): 1 by Patrick Rothfuss (ISBN: 8601300344706) from Amazon's Book Store. Free UK delivery on eligible orders.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae25703d73d472b7dfbeaeb778f5b37a5ceed14.jpg" /><h1>The Name of the Wind (The Kingkiller Chronicle): 1</h1><p>Buy The Name of the Wind (The Kingkiller Chronicle): 1 by Patrick Rothfuss (ISBN: 8601300344706) from Amazon's Book Store. Free UK delivery on eligible orders.</p></article>
