@@ -1,4 +1,12 @@
+name: Wave2
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4112bc1-7bcc-4dd8-aef1-fa60ed323bd9.png
+layout_spectrum: 0.13473811300379215
 typography_spectrum: 0.2288550368402301
+cta: {}
+analytics:
+  google: UA-26752917-1
+opengraph: {}
 color:
   brandColors:
     - '#1A1F2B'
@@ -10,19 +18,13 @@ color:
   lightness: 0.5265859738820334
   saturation: 0.2795024169676264
   rhythmicContrast: 0.0289051709510386
-github: true
-opengraph: {}
-layout_spectrum: 0.13473811300379215
-analytics:
-  google: UA-26752917-1
+purpose: []
+title: Wave2
+description: 'Unraveling the now, while working on the next...'
 author:
   name: Alan Snelson
   url: 'https://Wave2.org'
   email: Alan@Wave2.org
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4112bc1-7bcc-4dd8-aef1-fa60ed323bd9.png
-name: Wave2
-cta: {}
 navigation:
   - name: About
     id: 75116da0-653b-4c57-a13b-2f465b36ffe8
@@ -36,7 +38,6 @@ navigation:
   - name: GitHub
     url: 'https://github.com/wave2'
     type: external
-title: Wave2
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -59,5 +60,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Unraveling the now, while working on the next...'
-purpose: []
+github: true
