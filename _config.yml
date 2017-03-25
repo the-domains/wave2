@@ -1,23 +1,23 @@
+layout_spectrum: 0.19552914245515177
+typography_spectrum: 0.22305911771132436
+color:
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  brandStrength: 0.7593578502794008
+  lightness: 0.8939943201757857
+  saturation: 0.7686053472431837
+  rhythmicContrast: 0.538076675443698
 name: Wave2
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4112bc1-7bcc-4dd8-aef1-fa60ed323bd9.png
-layout_spectrum: 0.13473811300379215
-typography_spectrum: 0.2288550368402301
 cta: {}
 analytics:
   google: UA-26752917-1
 opengraph: {}
-color:
-  brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  brandStrength: 0.13241048394766922
-  lightness: 0.5265859738820334
-  saturation: 0.2795024169676264
-  rhythmicContrast: 0.0289051709510386
 purpose: []
 title: Wave2
 description: 'Unraveling the now, while working on the next...'
