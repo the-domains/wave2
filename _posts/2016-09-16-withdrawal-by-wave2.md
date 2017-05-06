@@ -52,8 +52,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/wave2/withdrawal'
 title: Withdrawal by Wave2
-datePublished: '2017-04-01T10:50:09.694Z'
-dateModified: '2017-04-01T10:50:09.243Z'
+datePublished: '2017-05-06T20:38:18.205Z'
+dateModified: '2017-05-06T20:38:14.909Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-16-withdrawal-by-wave2.md
