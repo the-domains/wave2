@@ -2,13 +2,13 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2017-04-01T10:50:09.243Z'
+dateModified: '2017-05-06T20:38:14.909Z'
 publisher: {}
 author: []
 inFeed: true
 description: Lunch by the river
 via: {}
-datePublished: '2017-04-01T10:50:09.794Z'
+datePublished: '2017-05-06T20:38:18.205Z'
 sourcePath: _posts/2016-08-05-lunch-by-the-river.md
 starred: false
 datePublishedOriginal: '2016-08-05T12:11:52.719Z'
