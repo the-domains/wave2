@@ -25,8 +25,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.amazon.co.uk/gp/product/0575081406/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0575081406&linkCode=as2&tag=wave2
 title: 'The Name of the Wind (The Kingkiller Chronicle): 1'
-datePublished: '2017-04-01T10:50:09.801Z'
-dateModified: '2017-04-01T10:50:09.243Z'
+datePublished: '2017-05-06T20:38:18.180Z'
+dateModified: '2017-05-06T20:38:14.909Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-07-the-name-of-the-wind-the-kingkiller-chronicle-1.md
