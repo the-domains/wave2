@@ -5,16 +5,16 @@ description: >-
   Official (ISC)2 Guide to the CCSP CBK, watching 23 hours of video on ITPRO.TV
   and working through over 400+ practice questions, I finally arrived at the
   exam centre with a Red Bull and Cadbury Boost to keep me awake.
-dateModified: '2017-05-06T20:37:27.684Z'
-datePublished: '2017-05-06T20:37:28.089Z'
+dateModified: '2017-05-06T20:38:14.909Z'
+datePublished: '2017-05-06T20:38:18.180Z'
 title: The road to CCSP
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://www.isc2.org/ccsp/default.aspx'
+sourcePath: _posts/2017-05-06-the-road-to-ccsp.md
 starred: false
 datePublishedOriginal: '2017-05-06T20:37:28.089Z'
-sourcePath: _posts/2017-05-06-the-road-to-ccsp.md
 _type: MediaObject
 
 ---
