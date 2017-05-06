@@ -4,9 +4,9 @@
         <description><![CDATA[Wave2]]></description>
         <link>http://thegrid.wave2.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Apr 2017 10:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2017 20:37:36 GMT</lastBuildDate>
         <atom:link href="http://thegrid.wave2.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Apr 2017 10:50:27 GMT</pubDate>
+        <pubDate>Sat, 06 May 2017 20:37:29 GMT</pubDate>
         <item>
             <title><![CDATA[The Name of the Wind (The Kingkiller Chronicle): 1]]></title>
             <description><![CDATA[<p>Just finished reading The Name of the Wind - fantastic book. A must read if ever there was one!</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae25703d73d472b7dfbeaeb778f5b37a5ceed14.jpg"><h1>The Name of the Wind (The Kingkiller Chronicle): 1</h1><p>Buy The Name of the Wind (The Kingkiller Chronicle): 1 by Patrick Rothfuss (ISBN: 8601300344706) from Amazon&apos;s Book Store. Free UK delivery on eligible orders.</p></article>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Fri, 16 Sep 2016 13:33:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The road to CCSP]]></title>
+            <description><![CDATA[<h1><strong>The road to CCSP</strong></h1>,<p>After spending a month reading both the <a href="https://www.amazon.co.uk/gp/product/1259835464/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=1259835464&amp;linkCode=as2&amp;tag=wave2" title="">CCSP All-in-One Exam Guide</a> and <a href="https://www.amazon.co.uk/gp/product/1119276721/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=1119276721&amp;linkCode=as2&amp;tag=wave2" title="">The Official (ISC)2 Guide to the CCSP CBK</a>, watching 23 hours of video on <a href="https://itpro.tv/course-library/certified-cloud-security-professional-2016" title="">ITPRO.TV</a> and working through over 400+ practice questions, I finally arrived at the exam centre with a Red Bull and Cadbury Boost to keep me awake.</p>,<p>I felt confident that I had done everything I could to prepare for the exam, so I wasted no time and quickly packed my laptop into the locker before completing the customary security checks.</p>,<p>The first 10 questions totally knocked my confidence, and I was beginning to wonder if all my studying was going to pay off. I guess after working through over 400+ practice questions (and getting 90% right) I expected to see at least one similar question, I was wrong.</p>,<p>By question 60 I gave up any hope of seeing a familiar question and decided to simply answer the questions to the best of my ability. I started to forget about trying to associate the question with an expected answer, and instead focused on asking myself, what would I do?</p>,<p>As I answered the last question I was exhausted mentally and really had no idea how I had done. Clicking the end test button I cringed waiting for the result, only to find out that my result was at the reception. &nbsp;Even the lady sat outside the exam room had no idea how I did…..yes, I asked!</p>,<p>After getting my stuff from the locker, I wandered over to the reception eyeing the printout that the receptionist was folding. Did I pass? I asked. She handed me the results saying she had not looked. I took the results and unfolded the paper as I walked out into the sun - Congratulations! it read.</p>,<p>So after 3 weeks of waiting for my endorsement to be processed (3 weeks of refreshing my inbox - a habit I now need to break), I finally received the e-mail I was waiting for.</p>,<p>I am now a <a href="https://www.isc2.org/ccsp/default.aspx" title="CCSP">Certified Cloud Security Professional (CCSP℠)</a></p>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/89a4fc0558d85903277b4c29009361be/croprotate.jpg?cropheight=131&cropwidth=507&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffc097e93-548d-43ca-a7f0-f5403d2d9cb2.jpg&x=0&y=9" title="CCSP">]]></description>
+            <link>https://www.isc2.org/ccsp/default.aspx</link>
+            <guid isPermaLink="false">0e86a7cc-72e0-489c-92ab-8ad6e57ef552</guid>
+            <pubDate>Sat, 06 May 2017 20:37:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ElectroSub by Wave2]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F221108370%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fwave2%2Felectrosub&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000127649165-6xkhoj-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
             <link>https://soundcloud.com/wave2/electrosub</link>
@@ -69,13 +76,6 @@
             <link>https://soundcloud.com/wave2/derailed</link>
             <guid isPermaLink="false">ef263c4c-276d-4372-bf24-aba30a400fda</guid>
             <pubDate>Sat, 05 Mar 2016 19:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vermona by Wave2]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F213696831%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fwave2%2Fvermona&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122533275-5t2b51-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
-            <link>https://soundcloud.com/wave2/vermona</link>
-            <guid isPermaLink="false">807f5dd2-d407-42af-b1be-a6086053969a</guid>
-            <pubDate>Sat, 05 Mar 2016 19:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
