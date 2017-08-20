@@ -1,5 +1,5 @@
-layout_spectrum: 0.19552914245515177
-typography_spectrum: 0.22305911771132436
+layout_spectrum: 0.7447221577952219
+typography_spectrum: 0.22646361106047683
 color:
   brandColors:
     - '#6C6E58'
@@ -7,10 +7,10 @@ color:
     - '#417378'
     - '#A4CFBE'
     - '#F4F7D9'
-  brandStrength: 0.7593578502794008
-  lightness: 0.8939943201757857
-  saturation: 0.7686053472431837
-  rhythmicContrast: 0.538076675443698
+  brandStrength: 0.35873663330837935
+  lightness: 0.5026332151195458
+  saturation: 0.12590093382680329
+  rhythmicContrast: 0.7907907177418434
 name: Wave2
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4112bc1-7bcc-4dd8-aef1-fa60ed323bd9.png
